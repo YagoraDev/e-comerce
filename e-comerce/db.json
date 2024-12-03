@@ -1,0 +1,41 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sansung A20",
+      "price": 499.99,
+      "image": "assets/images/produto1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Motorola G54",
+      "price": 789.90,
+      "image": "assets/images/produto2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sansung A51",
+      "price": 1499.99,
+      "image": "assets/images/produto3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sansung A25",
+      "price": 1599.00,
+      "image": "assets/images/produto4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Motorola EDGE 50 NEO",
+      "price": 999.90,
+      "image": "assets/images/produto5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Redmi POCO",
+      "price": 1900.00,
+      "image": "assets/images/produto6.jpg"
+    }
+  ]
+}
