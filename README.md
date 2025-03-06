@@ -1,9 +1,6 @@
 # e-comerce
 Site feito com bootstrap e JavaScript
 
-YAGO OLIVEIRA SIQUEIRA - 04160678,
-EDUARDO CRISTIAN SALDANHA PINHEIRO - 04152147,
-LEANDRO ALEXANDRE DE ARAÚJO POMPEU - 017032969,
-IAGO SIMPLICIO DE SOUZA - 04156049,
-LEONARDO LISBOA DA SILVA E SILVA - 04162364,
-JOÃO VICTOR SILVA NEVES - 04160083
+Site desenvolvido com as tecnologias HTML5, CSS3, JavaScript e Bootstrap, com o objetivo de explorar e testar a biblioteca, além de aprimorar habilidades no desenvolvimento front-end.
+
+Link do site: https://e-comerce-taupe.vercel.app/
